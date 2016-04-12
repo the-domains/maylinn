@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg.\_"
-datePublished: '2016-04-12T17:07:04.784Z'
-dateModified: '2016-04-12T17:06:48.594Z'
+datePublished: '2016-04-12T17:10:02.438Z'
+dateModified: '2016-04-12T17:09:47.899Z'
 title: Ny Nettside
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
