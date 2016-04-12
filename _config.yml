@@ -1,6 +1,6 @@
-name: 'MayLinn '
+name: May Linn
 favicon: null
-layout_spectrum: 0.76165
+layout_spectrum: 1
 typography_spectrum: 0.50357
 title: Personlig Trener
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1c1c1c'
-    - '#424242'
-    - '#efefef'
-    - '#646464'
-    - '#bcbcbc'
+    - '#7d8b96'
+    - '#010101'
+    - '#bdc7d1'
+    - '#2b343b'
+    - '#f4f8fb'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.015268699266016483
