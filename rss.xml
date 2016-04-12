@@ -4,7 +4,7 @@
         <description><![CDATA[Personlig Trener May Linn Nirisrud]]></description>
         <link>https://thegrid.ai/maylinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 17:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 17:09:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maylinn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ny Nettside]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/maylinn/ny-nettside/index.html</link>
             <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
             <pubDate>Tue, 12 Apr 2016 17:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TRX Øvelser ]]></title>
+            <description><![CDATA[<article><h1>TRX Øvelser </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a08d0b22-bab7-42c3-9fd8-034d03ab7a8c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maylinn/trx-ovelser/index.html</link>
+            <guid isPermaLink="false">2a26d795-4230-4461-a5ad-b1635f6a4702</guid>
+            <pubDate>Tue, 12 Apr 2016 17:07:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
