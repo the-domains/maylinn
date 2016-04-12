@@ -1,0 +1,28 @@
+name: 'MayLinn '
+favicon: null
+layout_spectrum: 0.12920482573099434
+typography_spectrum: 0.6497610958758742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.023649847833439708
+  lightness: 0.3334019717294723
+  saturation: 0.015268699266016483
+  rhythmicContrast: 0.20770132448524237
+purpose: []
