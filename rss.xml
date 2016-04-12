@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MayLinn ]]></title>
-        <description><![CDATA[MayLinn ]]></description>
-        <link>https://thegrid.ai/maylinn/</link>
+        <title><![CDATA[Personlig Trener]]></title>
+        <description><![CDATA[Personlig Trener]]></description>
+        <link>http://www.thegrid.oi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 11:35:36 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/maylinn/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 11:46:27 GMT</lastBuildDate>
+        <atom:link href="http://www.thegrid.oi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd250a7-605f-4d65-8aa3-3769f651a016.jpg">]]></description>
+            <link>http://www.thegrid.oi/921d9231-e50c-40ba-bd91-f27b09c4ebfb/index.html</link>
+            <guid isPermaLink="false">921d9231-e50c-40ba-bd91-f27b09c4ebfb</guid>
+            <pubDate>Tue, 12 Apr 2016 11:45:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ny Nettside]]></title>
             <description><![CDATA[<article><h1>Ny Nettside</h1><p>Første post på ny side :) Jeg vil starte med å introdusere siden min og meg selv. Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17a1707-d1ee-4477-91d0-c8c60648881e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/maylinn/ny-nettside/index.html</link>
+            <link>http://www.thegrid.oi/ny-nettside/index.html</link>
             <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
             <pubDate>Tue, 12 Apr 2016 11:35:18 GMT</pubDate>
         </item>
