@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Start øvelsen med å stå i en planke posisjon.\_"
-datePublished: '2016-04-13T17:22:25.774Z'
-dateModified: '2016-04-13T17:22:16.100Z'
+datePublished: '2016-04-13T17:29:51.379Z'
+dateModified: '2016-04-13T17:22:32.307Z'
 title: "Dagens øvelse. Sett sammen en knee tuck med en pushup. Da får vi en atomic pushup. Her får du virkelig kjør bryst, armer og mage. Kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger.\_"
 author: []
 sourcePath: _posts/2016-04-13-dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa.md
