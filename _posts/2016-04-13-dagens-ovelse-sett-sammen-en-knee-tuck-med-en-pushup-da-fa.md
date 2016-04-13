@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Start øvelsen med å stå i en planke posisjon.\_"
-datePublished: '2016-04-13T17:29:51.379Z'
-dateModified: '2016-04-13T17:22:32.307Z'
+description: 'Utfør først en pushup, deretter press deg opp igjen i en planke og løft hoftene så høyt du klarer mens du drar knærne kontrollert inn mot brystet. Hold denne posisjonen 3-5 sek før du strekker ut knærne og ender tilbake i en planke posisjon. Pass på at du har god kontakt med magen og klarer å holde et godt spenn gjennom hele øvelsen.'
+datePublished: '2016-04-13T17:57:13.708Z'
+dateModified: '2016-04-13T17:56:58.341Z'
 title: "Dagens øvelse. Sett sammen en knee tuck med en pushup. Da får vi en atomic pushup. Her får du virkelig kjør bryst, armer og mage. Kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger.\_"
 author: []
 sourcePath: _posts/2016-04-13-dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa.md
@@ -22,10 +22,12 @@ url: dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html
 _type: Article
 
 ---
-## TRX - Atomic Pushup
+TRX - Atomic Pushup
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c9da02-c5d9-42b4-8c7c-6f271eca4d43.jpg)
 
-Dagens øvelse. Sett sammen en knee tuck med en pushup. Da får vi en atomic pushup. Her får du virkelig kjør bryst, armer og mage. Kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c15d95-29f2-429f-8607-d544f2e12fae.png)
+Dagens øvelse. 
+
+Sett sammen en knee tuck med en pushup. Da får vi en atomic pushup. Her får du virkelig kjør bryst, armer og mage. Kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c15d95-29f2-429f-8607-d544f2e12fae.png)
 
 Start øvelsen med å stå i en planke posisjon. 
 
