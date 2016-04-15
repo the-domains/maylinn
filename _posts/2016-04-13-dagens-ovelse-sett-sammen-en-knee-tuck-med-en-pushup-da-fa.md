@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Utfør først en pushup, deretter press deg opp igjen i en planke og løft hoftene så høyt du klarer mens du drar knærne kontrollert inn mot brystet. Hold denne posisjonen 3-5 sek før du strekker ut knærne og ender tilbake i en planke posisjon. Pass på at du har god kontakt med magen og klarer å holde et godt spenn gjennom hele øvelsen.'
-datePublished: '2016-04-15T08:37:00.255Z'
-dateModified: '2016-04-15T08:36:47.849Z'
+datePublished: '2016-04-15T12:22:04.445Z'
+dateModified: '2016-04-15T12:21:13.013Z'
 title: "Dagens øvelse. Sett sammen en knee tuck med en pushup. Da får vi en atomic pushup. Her får du virkelig kjør bryst, armer og mage. Kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger.\_"
 author: []
 sourcePath: _posts/2016-04-13-dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa.md
@@ -25,9 +25,9 @@ _type: Article
 TRX - Atomic Pushup
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c9da02-c5d9-42b4-8c7c-6f271eca4d43.jpg)
 
-Dagens øvelse. Atomic pushups. Sett sammen en knee tuck med en pushup.  Her får du trent bryst, armer og mage. 
+Dagens øvelse. Atomic pushups. Sett sammen en knee tuck med en pushup.  Her får du trent bryst, armer og mage. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c15d95-29f2-429f-8607-d544f2e12fae.png)
 
-En enklere versjon kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c15d95-29f2-429f-8607-d544f2e12fae.png)
+En enklere versjon kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger. 
 
 Start øvelsen med å stå i en planke posisjon. 
 
