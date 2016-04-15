@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Utfør først en pushup, deretter press deg opp igjen i en planke og løft hoftene så høyt du klarer mens du drar knærne kontrollert inn mot brystet. Hold denne posisjonen 3-5 sek før du strekker ut knærne og ender tilbake i en planke posisjon. Pass på at du har god kontakt med magen og klarer å holde et godt spenn gjennom hele øvelsen.'
-datePublished: '2016-04-15T12:22:04.445Z'
-dateModified: '2016-04-15T12:21:13.013Z'
-title: "Dagens øvelse. Sett sammen en knee tuck med en pushup. Da får vi en atomic pushup. Her får du virkelig kjør bryst, armer og mage. Kan utføres med føttene i TRXǹ og håndflatene ned mot gulvet. På bilde over øker vi motstand ved å bruke 2 slynger.\_"
+datePublished: '2016-04-15T12:22:19.397Z'
+dateModified: '2016-04-15T12:22:12.582Z'
+title: Dagens øvelse
 author: []
 sourcePath: _posts/2016-04-13-dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa.md
 published: true
