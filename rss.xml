@@ -4,21 +4,21 @@
         <description><![CDATA[Personlig Trener May Linn Nirisrud]]></description>
         <link>https://thegrid.ai/maylinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 14:25:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maylinn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Velkommen til min nye nettside. ]]></title>
+            <description><![CDATA[<article><h1>Velkommen til min nye nettside. </h1><p>Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maylinn/ny-nettside/index.html</link>
+            <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
+            <pubDate>Sun, 01 May 2016 14:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dagens øvelse]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c9da02-c5d9-42b4-8c7c-6f271eca4d43.jpg">]]></description>
             <link>https://thegrid.ai/maylinn/dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html</link>
             <guid isPermaLink="false">470f6f83-9be7-47ce-9b4f-5185e50a381f</guid>
             <pubDate>Fri, 29 Apr 2016 07:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Velkommen til min nye nettside. ]]></title>
-            <description><![CDATA[<article><h1>Velkommen til min nye nettside. </h1><p>Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg"></article>]]></description>
-            <link>https://thegrid.ai/maylinn/ny-nettside/index.html</link>
-            <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
-            <pubDate>Tue, 12 Apr 2016 21:15:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
