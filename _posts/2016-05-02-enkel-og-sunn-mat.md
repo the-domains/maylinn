@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Enkel og sunn mat. '
-datePublished: '2016-05-02T17:45:46.730Z'
-dateModified: '2016-05-02T17:44:41.635Z'
+datePublished: '2016-05-02T17:47:14.242Z'
+dateModified: '2016-05-02T17:45:55.359Z'
 title: Tunfisk salat
 author:
   - name: ''
