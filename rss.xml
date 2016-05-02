@@ -4,7 +4,7 @@
         <description><![CDATA[Personlig Trener May Linn Nirisrud]]></description>
         <link>https://thegrid.ai/maylinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 17:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 17:58:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maylinn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dagens øvelse]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/maylinn/ny-nettside/index.html</link>
             <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
             <pubDate>Mon, 02 May 2016 17:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tunfisk salat]]></title>
-            <description><![CDATA[<article><h1>Tunfisk salat</h1><p>Enkel og sunn mat. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/903e7267-19a0-4a6b-99e0-beb37fa11c80.jpg"></article>]]></description>
-            <link>https://thegrid.ai/maylinn/enkel-og-sunn-mat/index.html</link>
-            <guid isPermaLink="false">ef8a186b-b5ca-4ec8-bdd8-0b63a3bff711</guid>
-            <pubDate>Mon, 02 May 2016 17:48:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
