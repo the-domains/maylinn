@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Håper noen av disse kan friste til middag eller kveldsmat :)'
-datePublished: '2016-05-02T18:26:48.519Z'
-dateModified: '2016-05-02T18:26:08.010Z'
+datePublished: '2016-05-02T18:57:10.872Z'
+dateModified: '2016-05-02T18:57:01.750Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-02-enkel-og-sunn-mat.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-enkel-og-sunn-mat.md
-published: true
 url: enkel-og-sunn-mat/index.html
 _type: Article
 
