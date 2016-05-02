@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. '
-datePublished: '2016-05-02T17:52:10.305Z'
-dateModified: '2016-05-02T16:47:56.209Z'
+datePublished: '2016-05-02T18:09:47.169Z'
+dateModified: '2016-05-02T18:09:40.774Z'
 title: 'Velkommen til min nettside. '
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
@@ -22,7 +22,7 @@ url: ny-nettside/index.html
 _type: Article
 
 ---
-## Velkommen til min nettside. 
+## Velkommen til min nettside. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa152bbd-5011-4cc1-90bf-b3a926403553.jpg)
 
 Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. 
 
@@ -34,7 +34,6 @@ Her vil du få innsyn i mitt liv som person og trener. Tips og erfaringer innenf
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa152bbd-5011-4cc1-90bf-b3a926403553.jpg)
 
 Mail: Maylinn.Nirisrud@satselixia.no
 
