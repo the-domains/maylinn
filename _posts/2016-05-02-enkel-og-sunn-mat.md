@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Enkel og sunn mat. Håper noe kan friste til middag eller kvelds :)'
-datePublished: '2016-05-02T15:55:19.215Z'
-dateModified: '2016-05-02T15:50:50.771Z'
+datePublished: '2016-05-02T16:03:27.997Z'
+dateModified: '2016-05-02T15:55:27.459Z'
 title: Tunfisk salat
 author:
   - name: ''
