@@ -4,15 +4,8 @@
         <description><![CDATA[Personlig Trener May Linn Nirisrud]]></description>
         <link>https://thegrid.ai/maylinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 17:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 17:47:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maylinn/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Dagens øvelse]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac10bfbbeadb5fb2fa890622af5785632387d434.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/maylinn/dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html</link>
-            <guid isPermaLink="false">470f6f83-9be7-47ce-9b4f-5185e50a381f</guid>
-            <pubDate>Mon, 02 May 2016 17:47:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Tunfisk salat]]></title>
             <description><![CDATA[<article><h1>Tunfisk salat</h1><p>Enkel og sunn mat. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/903e7267-19a0-4a6b-99e0-beb37fa11c80.jpg"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/maylinn/ny-nettside/index.html</link>
             <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
             <pubDate>Mon, 02 May 2016 16:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dagens øvelse]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac10bfbbeadb5fb2fa890622af5785632387d434.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/maylinn/dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html</link>
+            <guid isPermaLink="false">470f6f83-9be7-47ce-9b4f-5185e50a381f</guid>
+            <pubDate>Mon, 02 May 2016 16:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
