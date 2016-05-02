@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. '
-datePublished: '2016-05-02T18:09:47.169Z'
-dateModified: '2016-05-02T18:09:40.774Z'
+datePublished: '2016-05-02T18:15:20.321Z'
+dateModified: '2016-05-02T18:15:11.381Z'
 title: 'Velkommen til min nettside. '
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
@@ -22,7 +22,9 @@ url: ny-nettside/index.html
 _type: Article
 
 ---
-## Velkommen til min nettside. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa152bbd-5011-4cc1-90bf-b3a926403553.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ba0463-60a5-4951-9e6b-1a81d1d43c50.jpg)
+
+## Velkommen til min nettside. 
 
 Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. 
 
