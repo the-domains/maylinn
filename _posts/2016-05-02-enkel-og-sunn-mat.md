@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Enkel og sunn mat.
-datePublished: '2016-05-02T14:57:12.651Z'
-dateModified: '2016-05-02T14:56:13.313Z'
+description: 'Enkel og sunn mat. Håper noe kan friste til middag eller kvelds :)'
+datePublished: '2016-05-02T15:01:52.595Z'
+dateModified: '2016-05-02T15:01:44.726Z'
 title: Tunfisk salat
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: enkel-og-sunn-mat/index.html
 _type: Article
 
 ---
-Enkel og sunn mat.
+Enkel og sunn mat. Håper noe kan friste til middag eller kvelds :)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/903e7267-19a0-4a6b-99e0-beb37fa11c80.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ac436ef-3500-4530-ab60-eb03f783150d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/12d40887892d05c41e99854ab7a83dbe95e88428.jpg)
