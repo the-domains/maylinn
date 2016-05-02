@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. '
-datePublished: '2016-05-02T14:39:00.135Z'
-dateModified: '2016-05-02T14:36:29.579Z'
-title: 'Velkommen til min nye nettside. '
+description: 'Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. '
+datePublished: '2016-05-02T15:24:47.362Z'
+dateModified: '2016-05-02T15:24:23.269Z'
+title: 'Velkommen til min nettside. '
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
 published: true
@@ -22,15 +22,16 @@ url: ny-nettside/index.html
 _type: Article
 
 ---
-## Velkommen til min nye nettside. 
+## Velkommen til min nettside. 
 
-Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. 
+Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. 
 
 Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. 
 
 Her vil du få innsyn i mitt liv som person og trener. Tips og erfaringer innenfor trening og mat. Hverdag og trenings gleder. Jeg er ærlig og ønsker å fortelle om både de gode og de dårlige dagene. 
 
 Ønsker å bidra med inspirasjon til trening og vil gi deg utfordringer på hvordan du kan utvikle din treningshverdag! Kommer til å legge ut kreative øvelser og bilder. Håper på å kunne skape og spre treningsglede og motivere deg.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ddfb3c-fc17-41ec-af75-db87809a291b.jpg)
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg)
@@ -38,4 +39,4 @@ Her vil du få innsyn i mitt liv som person og trener. Tips og erfaringer innenf
 Mail: Maylinn.Nirisrud@satselixia.no
 
 Instagram : May\_linn86
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7df7846-a01f-4797-b8ad-902f0dcc8912.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa152bbd-5011-4cc1-90bf-b3a926403553.jpg)
