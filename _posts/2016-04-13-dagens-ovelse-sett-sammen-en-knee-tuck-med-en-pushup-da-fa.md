@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Utfør først en pushup, deretter press deg opp igjen i en planke og løft hoftene så høyt du klarer mens du drar knærne kontrollert inn mot brystet. Hold denne posisjonen 3-5 sek før du strekker ut knærne og ender tilbake i en planke posisjon. Pass på at du har god kontakt med magen og klarer å holde et godt spenn gjennom hele øvelsen.'
-datePublished: '2016-05-02T17:47:39.686Z'
-dateModified: '2016-05-02T17:47:39.336Z'
+datePublished: '2016-05-02T17:52:36.058Z'
+dateModified: '2016-05-02T17:51:03.269Z'
 title: ''
 author:
   - name: ''
