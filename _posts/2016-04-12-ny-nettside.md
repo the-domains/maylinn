@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. '
-datePublished: '2016-05-02T16:47:48.589Z'
-dateModified: '2016-05-02T15:50:08.317Z'
+datePublished: '2016-05-02T17:52:10.305Z'
+dateModified: '2016-05-02T16:47:56.209Z'
 title: 'Velkommen til min nettside. '
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
