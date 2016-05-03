@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Okklusjons trening. Hvordan og hvorfor.
-datePublished: '2016-05-03T08:59:22.982Z'
-dateModified: '2016-05-03T08:58:38.193Z'
+datePublished: '2016-05-03T09:02:25.061Z'
+dateModified: '2016-05-03T09:01:46.074Z'
 title: Okklusjon = å stenge av eller å lukke.
 author: []
 authors: []
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 Okklusjons trening. Hvordan og hvorfor.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abef69a9-594b-4abe-b6d8-1dbd311e588d.jpg)
 
 # Okklusjon = å stenge av eller å lukke.
 
@@ -39,9 +40,9 @@ Når vi trener ønsker vi en stor muskelfiber aktivering, noe som skjer når vi 
 Okklusjons trening gir den samme effekten som maksimal styrketrening men med lettere vekter. Dvs fra 20-50 av 1 RM.
 
 Oksygenmangelsen som oppstår ved okkulasjon øker muskelfiber aktiveringen tidligere, og dermed forsterker det effekten av det mekaniske draget langt tidligere enn ved normal styrketrening. Musklene påføres en ekstra stressfaktor.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e34555-d8b8-4b99-9d8c-c8a129010b06.jpg)
 
 Nytt blod blir tilført musklene, men pumpes ikke tilbake til hjerte. Dette vil gi en veske oppsamling i musklene samt mer blod utover settene- så du kan se for deg den beste PUMPEN noen sinne. Bindene skal sitte på i pausene så blodet forsvinner ikke som ved vanlig trening.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e34555-d8b8-4b99-9d8c-c8a129010b06.jpg)
 
 # Denne treningsformen er godt dokumentert:
 
@@ -56,9 +57,9 @@ Myostatin er et protein som produseres i skjelettmuskulatur celler, og som hemme
 Okklusjons trening er en metode som hemmer nedbrytningen (myostatin) av muskulatur og stimulerer oppbyggingen.
 
 # I praksis funker det slik:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5528124f-56a7-47be-89e8-113222d75003.jpg)
 
 Du kan bruke hva som helst å til å binde med, men et knebind fungerer veldig bra. Det er langt og bredt nok til at du får et par runder rundt beinet og får strammet godt til. Eller disse:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5528124f-56a7-47be-89e8-113222d75003.jpg)
 
 Trykket er viktig! Venene skal avklemmes, men blodet skal kunne komme inn i muskelen så du kan ikke stramme til for hardt, da vil du miste effekten.
 
