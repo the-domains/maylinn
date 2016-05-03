@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengere enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.'
-datePublished: '2016-05-03T09:05:56.972Z'
-dateModified: '2016-05-03T09:04:55.492Z'
+datePublished: '2016-05-03T09:09:39.849Z'
+dateModified: '2016-05-03T09:08:54.875Z'
 title: Okklusjons trening. Hvordan og hvorfor.
 author: []
 authors: []
@@ -40,9 +40,9 @@ Når vi trener ønsker vi en stor muskelfiber aktivering, noe som skjer når vi 
 Okklusjons trening gir den samme effekten som maksimal styrketrening men med lettere vekter. Dvs fra 20-50 av 1 RM.
 
 Oksygenmangelsen som oppstår ved okkulasjon øker muskelfiber aktiveringen tidligere, og dermed forsterker det effekten av det mekaniske draget langt tidligere enn ved normal styrketrening. Musklene påføres en ekstra stressfaktor.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e34555-d8b8-4b99-9d8c-c8a129010b06.jpg)
 
 Nytt blod blir tilført musklene, men pumpes ikke tilbake til hjerte. Dette vil gi en veske oppsamling i musklene samt mer blod utover settene- så du kan se for deg den beste PUMPEN noen sinne. Bindene skal sitte på i pausene så blodet forsvinner ikke som ved vanlig trening.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e34555-d8b8-4b99-9d8c-c8a129010b06.jpg)
 
 # Denne treningsformen er godt dokumentert:
 
@@ -57,9 +57,9 @@ Myostatin er et protein som produseres i skjelettmuskulatur celler, og som hemme
 Okklusjons trening er en metode som hemmer nedbrytningen (myostatin) av muskulatur og stimulerer oppbyggingen.
 
 # I praksis funker det slik:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5528124f-56a7-47be-89e8-113222d75003.jpg)
 
 Du kan bruke hva som helst å til å binde med, men et knebind fungerer veldig bra. Det er langt og bredt nok til at du får et par runder rundt beinet og får strammet godt til. Eller disse:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5528124f-56a7-47be-89e8-113222d75003.jpg)
 
 Trykket er viktig! Venene skal avklemmes, men blodet skal kunne komme inn i muskelen så du kan ikke stramme til for hardt, da vil du miste effekten.
 
@@ -81,9 +81,9 @@ Når det gjelder reps og sett så finnes det utallige måter å gjøre dette på
 
 4 sett, 30 sek pause og 20 % av 1 RM. Man kan kjøre fra 20 -- 50 % av 1 RM.
 
-Start med en motstand på 20% for å prøve ut hvis det er første gangen. Det er også lurt å ha med seg noen, så gjennomfør det med en treningspartener. Da har du noen som kan pushe deg gjennom settene, det vil de fleste trengeDet er mildt sagt vondt, de siste settene er seige! Er det ikke vondt så har du ikke strammet bindene godt nok. Pausene skal vare fra 30 -60 sek og bindene skal sitte på helt til siste sett er gjennomført. Du kan fint kjøre mindre reps og flere sett.
+Start med en motstand på 20% for å prøve ut hvis det er første gangen. Det er også lurt å ha med seg noen, så gjennomfør det med en trenings partener. Da har du noen som kan pushe deg gjennom settene, det vil de fleste trengeDet er mildt sagt vondt, de siste settene er seige! Er det ikke vondt så har du ikke strammet bindene godt nok. Pausene skal vare fra 30 -60 sek og bindene skal sitte på helt til siste sett er gjennomført. Du kan fint kjøre mindre reps og flere sett.
 
-Okklusjon tilfører også noe den tunge styrketreningen ikke gjør, nemlig raskere aktivering av de raske muskelfibrene og gir en større hormonrespons.Forbred både kropp og hode på hva som skal trenes, god oppvarming og klargjøring av musklatur er viktig.Er muskelvekst eller styrkeøkning målet ditt så anbefaler jeg å prøve ut denne trenings metoden.
+Okklusjon tilfører også noe den tunge styrketreningen ikke gjør, nemlig raskere aktivering av de raske muskelfibrene og gir en større hormonrespons. Forbred både kropp og hode på hva som skal trenes, god oppvarming og klargjøring av muskulatur er viktig. Er muskelvekst eller styrke økning målet ditt så anbefaler jeg å prøve ut denne trenings metoden.
 
 Bit tenna sammen, her trenger du en høy smerteterskel og viljestyrke.
 
