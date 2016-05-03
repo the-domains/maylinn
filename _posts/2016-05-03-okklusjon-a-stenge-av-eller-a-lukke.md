@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Okklusjons trening. Hvordan og hvorfor.
-datePublished: '2016-05-03T09:04:48.041Z'
-dateModified: '2016-05-03T09:04:25.310Z'
-title: ''
+description: 'I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengere enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.'
+datePublished: '2016-05-03T09:05:56.972Z'
+dateModified: '2016-05-03T09:04:55.492Z'
+title: Okklusjons trening. Hvordan og hvorfor.
 author: []
 authors: []
 publisher:
@@ -22,10 +22,10 @@ url: okklusjon-a-stenge-av-eller-a-lukke/index.html
 _type: Article
 
 ---
-Okklusjons trening. Hvordan og hvorfor.
+# Okklusjons trening. Hvordan og hvorfor.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abef69a9-594b-4abe-b6d8-1dbd311e588d.jpg)
 
-# Okklusjon = å stenge av eller å lukke.
+## Okklusjon = å stenge av eller å lukke.
 
 I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengere enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.
 
