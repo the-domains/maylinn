@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. '
-datePublished: '2016-05-03T08:14:23.190Z'
-dateModified: '2016-05-03T08:14:20.090Z'
-title: 'Velkommen til min nettside. '
+description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. '
+datePublished: '2016-05-03T08:16:26.208Z'
+dateModified: '2016-05-03T08:16:12.576Z'
+title: 'Nå kjører vi! Første post på ny blogg :) '
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
 published: true
@@ -24,9 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1f4b9ef-69a0-4617-8584-bdef3b20e9e2.jpg)
 
-## Velkommen til min nettside. 
+## Nå kjører vi! Første post på ny blogg :) 
 
-Nå kjører vi! Første post på ny blogg :) Jeg vil starte med å introdusere siden min og meg selv. 
+Jeg vil starte med å introdusere siden min og meg selv. 
 
 Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. 
 
