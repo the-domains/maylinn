@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Okklusjons trening. Hvordan og hvorfor.
-datePublished: '2016-05-03T09:02:25.061Z'
-dateModified: '2016-05-03T09:01:46.074Z'
-title: Okklusjon = å stenge av eller å lukke.
+datePublished: '2016-05-03T09:04:48.041Z'
+dateModified: '2016-05-03T09:04:25.310Z'
+title: ''
 author: []
 authors: []
 publisher:
