@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengere enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.'
-datePublished: '2016-05-03T09:09:39.849Z'
-dateModified: '2016-05-03T09:08:54.875Z'
+description: 'I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.'
+datePublished: '2016-05-03T09:14:00.452Z'
+dateModified: '2016-05-03T09:13:49.108Z'
 title: Okklusjons trening. Hvordan og hvorfor.
 author: []
+sourcePath: _posts/2016-05-03-okklusjon-a-stenge-av-eller-a-lukke.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-okklusjon-a-stenge-av-eller-a-lukke.md
-published: true
 url: okklusjon-a-stenge-av-eller-a-lukke/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 
 ## Okklusjon = å stenge av eller å lukke.
 
-I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengere enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.
+I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.
 
 For å få til dette kan du bruke et kne eller håndledds bånd, stramme til rundt den kroppsdelen som skal okkluderes for å stoppe tilbakeførsel av blod til hjerte. Skal du okkludere lår så binder du reimen helt oppe ved hoften/lysken, eller for biceps oppe ved skulderen.
 
