@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. '
-datePublished: '2016-05-03T08:16:26.208Z'
-dateModified: '2016-05-03T08:16:12.576Z'
-title: 'Nå kjører vi! Første post på ny blogg :) '
+datePublished: '2016-05-03T09:08:33.719Z'
+dateModified: '2016-05-03T09:08:31.071Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
 published: true
