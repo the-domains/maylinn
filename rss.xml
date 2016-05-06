@@ -4,7 +4,7 @@
         <description><![CDATA[Personlig Trener May Linn Nirisrud]]></description>
         <link>http://maylinn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 08:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 21:50:03 GMT</lastBuildDate>
         <atom:link href="http://maylinn.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Atomic Pushups]]></title>
@@ -33,13 +33,6 @@
             <link>http://maylinn.com/enkel-og-sunn-mat/index.html</link>
             <guid isPermaLink="false">8289517d-3d5e-49b7-a028-4995a98d38f2</guid>
             <pubDate>Wed, 04 May 2016 16:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Velkommen til min nettside]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg">]]></description>
-            <link>http://maylinn.com/ny-nettside/index.html</link>
-            <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
-            <pubDate>Tue, 03 May 2016 09:08:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
