@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.'
-datePublished: '2016-05-03T09:14:00.452Z'
-dateModified: '2016-05-03T09:13:49.108Z'
+datePublished: '2016-05-06T08:50:34.497Z'
+dateModified: '2016-05-06T08:49:02.966Z'
 title: Okklusjons trening. Hvordan og hvorfor.
 author: []
 sourcePath: _posts/2016-05-03-okklusjon-a-stenge-av-eller-a-lukke.md
-published: true
 authors: []
 publisher:
   name: null
@@ -23,7 +22,7 @@ _type: Article
 
 ---
 # Okklusjons trening. Hvordan og hvorfor.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abef69a9-594b-4abe-b6d8-1dbd311e588d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfd6fe0e-a086-431b-9538-758f8697c8aa.jpg)
 
 ## Okklusjon = å stenge av eller å lukke.
 
