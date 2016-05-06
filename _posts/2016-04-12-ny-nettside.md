@@ -1,16 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. '
-datePublished: '2016-05-03T09:08:33.719Z'
-dateModified: '2016-05-03T09:08:31.071Z'
+datePublished: '2016-05-06T21:49:58.690Z'
+dateModified: '2016-05-06T21:49:17.373Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
-published: true
 authors: []
 publisher:
   name: null
@@ -19,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: ny-nettside/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1f4b9ef-69a0-4617-8584-bdef3b20e9e2.jpg)
