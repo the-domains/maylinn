@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. '
-datePublished: '2016-05-07T10:01:00.457Z'
-dateModified: '2016-05-07T10:00:44.075Z'
+description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. '
+datePublished: '2016-05-09T16:05:16.488Z'
+dateModified: '2016-05-09T07:47:47.098Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
@@ -23,11 +23,13 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1f4b9ef-69a0-4617-8584-bdef3b20e9e2.jpg)
 
-## Nå kjører vi! Første post på ny blogg :) 
+## Nå kjører vi! Ny blogg :) 
 
 Jeg vil starte med å introdusere siden min og meg selv. 
 
-Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. Er 29 år og bor i Kongsberg. 
+Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. 
+
+Er 29 år og bor i Kongsberg. 
 
 Her vil du få innsyn i mitt liv som person og trener. Tips og erfaringer innenfor trening og mat. Hverdag og trenings gleder. Jeg er ærlig og ønsker å fortelle om både de gode og de dårlige dagene. 
 
@@ -37,6 +39,8 @@ Her vil du få innsyn i mitt liv som person og trener. Tips og erfaringer innenf
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b003c956-affb-48aa-aa7c-8fcb2f0a5072.jpg)
 
-Mail: Maylinn.Nirisrud@satselixia.no
+Mail: 
+
+Maylinn.Nirisrud@satselixia.no
 
 Instagram : May\_linn86
