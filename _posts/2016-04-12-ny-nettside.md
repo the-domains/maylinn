@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. '
-datePublished: '2016-05-09T16:05:16.488Z'
-dateModified: '2016-05-09T07:47:47.098Z'
+datePublished: '2016-05-09T17:28:03.211Z'
+dateModified: '2016-05-09T16:05:23.976Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
