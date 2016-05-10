@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Gjennom bloggen vil jeg vise det jeg brenner for. Jeg er svært opptatt av hva vi kan gjøre med vår egen kroppsvekt, og jeg mener det beste verktøyet her er TRX. Den passer for alle,uansett utgangspunkt, mål og ønsker. Å kunne ha full kontroll på vår egen kropps vekt, og hvordan vi kan bruke den er en av de beste måtene man kan klargjøre kroppen på hva som kommer.'
-datePublished: '2016-05-10T06:34:19.245Z'
-dateModified: '2016-05-10T06:34:06.443Z'
+datePublished: '2016-05-10T06:38:00.411Z'
+dateModified: '2016-05-10T06:34:23.633Z'
 title: Hvorfor velge TRX trening?
 author: []
 sourcePath: _posts/2016-05-09-hvorfor-velge-trx-trening.md
