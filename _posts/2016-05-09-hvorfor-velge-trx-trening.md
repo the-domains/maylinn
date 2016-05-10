@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Du har full kontroll over hvor mye du ønsker å utfordre deg selv på hver øvelse - fordi du kan bare justere kroppens posisjon for å legge til eller redusere motstand.'
-datePublished: '2016-05-10T20:29:35.454Z'
-dateModified: '2016-05-10T20:25:27.627Z'
+datePublished: '2016-05-10T20:34:30.290Z'
+dateModified: '2016-05-10T20:33:40.418Z'
 title: 'Her får du: kroppsvekts trening, styrke, balanse, fleksibilitet og kjerne stabilitet samtidig.'
 author: []
 sourcePath: _posts/2016-05-09-hvorfor-velge-trx-trening.md
@@ -22,7 +22,6 @@ _type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05f581d3cb9afad661fe193a9a5d5066/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fe06834889c99d0a322b705ee02a73c9e1050b13f.jpg&width=450)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a204362-8466-4c23-9932-5320721f6100.jpg)
 
 ## Hvorfor velge TRX trening?
 
@@ -47,3 +46,4 @@ Den er laget for å kunne trene, opprettholde og utvikle styrke og kondisjon nå
 
   
 Øvelses utvalget er enormt, vær kreativ og prøv ut nye ideer.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75b016fa-d9ce-4b7c-8683-30b7c7286d5d.jpg)
