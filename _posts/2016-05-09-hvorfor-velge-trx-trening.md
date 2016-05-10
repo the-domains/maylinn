@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Gjennom bloggen vil jeg vise det jeg brenner for. Jeg er svært opptatt av hva vi kan gjøre med vår egen kroppsvekt, og jeg mener det beste verktøyet her er TRX. Den passer for alle,uansett utgangspunkt, mål og ønsker. Å kunne ha full kontroll på vår egen kropps vekt, og hvordan vi kan bruke den er en av de beste måtene man kan klargjøre kroppen på hva som kommer.'
-datePublished: '2016-05-09T20:33:56.171Z'
-dateModified: '2016-05-09T20:33:45.848Z'
+datePublished: '2016-05-10T06:29:41.345Z'
+dateModified: '2016-05-10T06:28:58.592Z'
 title: Hvorfor velge TRX trening?
 author: []
+sourcePath: _posts/2016-05-09-hvorfor-velge-trx-trening.md
 authors: []
 publisher:
   name: null
@@ -16,17 +17,17 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-hvorfor-velge-trx-trening.md
 url: hvorfor-velge-trx-trening/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a38b8c8a-4dab-4e97-b0a2-b0f2c44bc0a1.jpg)
+
 ## Hvorfor velge TRX trening?
 
 Gjennom bloggen vil jeg vise det jeg brenner for. Jeg er svært opptatt av hva vi kan gjøre med vår egen kroppsvekt, og jeg mener det beste verktøyet her er TRX. Den passer for alle,uansett utgangspunkt, mål og ønsker. Å kunne ha full kontroll på vår egen kropps vekt, og hvordan vi kan bruke den er en av de beste måtene man kan klargjøre kroppen på hva som kommer.
 
 Du har full kontroll over hvor mye du ønsker å utfordre deg selv på hver øvelse - fordi du kan bare justere kroppens posisjon for å legge til eller redusere motstand.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a38b8c8a-4dab-4e97-b0a2-b0f2c44bc0a1.jpg)
 
 ## Her får du: kroppsvekts trening, styrke, balanse, fleksibilitet og kjerne stabilitet samtidig.
 
@@ -42,4 +43,8 @@ TRX ble oppfunnet av en Navy SEALs. Randy Hetrick, skvadron sjef for SEAL elite 
 
 Den er laget for å kunne trene, opprettholde og utvikle styrke og kondisjon når man ikke har tilgang til trenings studio.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83498d99-11db-4e97-aef3-4782c67e5a10.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a30f0064-3226-4226-8fc1-ee4d1ecfcd2f.jpg)
+
+Øvelses utvalget er enormt, vær kreativ og prøv ut nye ideer.
+
+https://youtu.be/JjFxUlfCgEQ
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3fcecbb-4b13-400c-a42b-ff20c42dd106.jpg)
