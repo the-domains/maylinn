@@ -1,18 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://instagram.com/p/zF_F86xOrT/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-10T20:38:43.103Z'
+dateModified: '2016-05-10T20:38:42.747Z'
 title: '#trx#instructor#trxtrainer#todaysworkout#fitness#everywhere#noexcuses#everyday#workout#letsgo#workforit#betterbodies#bodybuilding_and_fitness_ #motivation'
-datePublished: '2016-05-07T09:52:48.891Z'
-dateModified: '2016-05-07T09:52:37.098Z'
 author:
   - name: may_linn86
     url: 'https://www.instagram.com/may_linn86'
     avatar: {}
-isBasedOnUrl: 'https://instagram.com/p/zF_F86xOrT/'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-07-trxinstructortrxtrainertodaysworkoutfitnesseverywhere.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
