@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Mitt navn er May Linn, jeg jobber som Personlig Trener ved Elixia Bjørvika. '
-datePublished: '2016-05-09T17:28:03.211Z'
-dateModified: '2016-05-09T16:05:23.976Z'
+datePublished: '2016-05-10T06:40:23.929Z'
+dateModified: '2016-05-09T17:28:11.381Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-ny-nettside.md
@@ -18,7 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: hei/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1f4b9ef-69a0-4617-8584-bdef3b20e9e2.jpg)
