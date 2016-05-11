@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Protein snacks
-datePublished: '2016-05-11T16:59:48.235Z'
-dateModified: '2016-05-11T16:58:46.200Z'
+datePublished: '2016-05-11T17:03:55.716Z'
+dateModified: '2016-05-11T16:59:48.937Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-hjemmelagde-proteinkuler.md
@@ -42,5 +42,3 @@ Noen dråper vann eller melk for å få en passe konsistens.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e62fa699-1c95-4266-88b8-0f9eabcd504a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f12675e-769e-41f1-9310-ffb41d3eb28d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7e0acc-bcbd-4dd6-9e8a-11b9dcc2169d.jpg)
-
-##
