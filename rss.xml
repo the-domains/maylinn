@@ -4,7 +4,7 @@
         <description><![CDATA[Personlig Trener May Linn Nirisrud]]></description>
         <link>http://maylinn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 20:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 16:59:47 GMT</lastBuildDate>
         <atom:link href="http://maylinn.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Atomic Pushups]]></title>
@@ -12,6 +12,13 @@
             <link>http://maylinn.com/dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html</link>
             <guid isPermaLink="false">470f6f83-9be7-47ce-9b4f-5185e50a381f</guid>
             <pubDate>Tue, 03 May 2016 08:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protein snacks]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd25f39a-1c2e-4af2-b218-7cb7fd27749f.jpg">]]></description>
+            <link>http://maylinn.com/hjemmelagde-proteinkuler/index.html</link>
+            <guid isPermaLink="false">523a69f3-500b-458c-8b43-d88c8116671a</guid>
+            <pubDate>Wed, 11 May 2016 16:58:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Her får du: kroppsvekts trening, styrke, balanse, fleksibilitet og kjerne stabilitet samtidig.]]></title>
@@ -68,13 +75,6 @@
             <link>http://maylinn.com/okklusjon-a-stenge-av-eller-a-lukke/index.html</link>
             <guid isPermaLink="false">a3c0f3ff-10c0-4a45-ae57-98c2996647c9</guid>
             <pubDate>Fri, 06 May 2016 08:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ Snacks]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd25f39a-1c2e-4af2-b218-7cb7fd27749f.jpg">]]></description>
-            <link>http://maylinn.com/hjemmelagde-proteinkuler/index.html</link>
-            <guid isPermaLink="false">523a69f3-500b-458c-8b43-d88c8116671a</guid>
-            <pubDate>Fri, 06 May 2016 08:40:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
