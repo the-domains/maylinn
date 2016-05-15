@@ -5,21 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Utfør først en pushup, deretter press deg opp igjen i en planke og løft hoftene så høyt du klarer mens du drar knærne kontrollert inn mot brystet. Hold denne posisjonen 3-5 sek før du strekker ut knærne og ender tilbake i en planke posisjon. Pass på at du har god kontakt med magen og klarer å holde et godt spenn gjennom hele øvelsen.'
-datePublished: '2016-05-03T08:10:53.462Z'
-dateModified: '2016-05-03T08:10:49.526Z'
+datePublished: '2016-05-15T11:32:04.588Z'
+dateModified: '2016-05-09T17:52:12.562Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-13-dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html
 _type: Article
 
