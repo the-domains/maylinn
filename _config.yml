@@ -1,7 +1,7 @@
 name: May Linn
 favicon: null
-layout_spectrum: 0.50044
-typography_spectrum: 1
+layout_spectrum: 0.22697837138548493
+typography_spectrum: 0.5973617900162935
 title: Personlig Trener May Linn Nirisrud
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#a5a6a0'
-    - '#595d69'
-    - '#e0dfda'
-    - '#91857a'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.30231295758858323
+  lightness: 0.7618733206763864
+  saturation: 0.6233842405490577
+  rhythmicContrast: 0.7973091905005276
 purpose: []
