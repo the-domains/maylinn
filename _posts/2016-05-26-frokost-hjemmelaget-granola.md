@@ -1,18 +1,18 @@
 ---
 description: Frokost er i mine øyne dagens aller viktigste måltid - energi til å starte dagen. Etter en natt uten mat vil frokosten stabilisere blodsukkeret og gi kroppen beskjed om å sette igang systemene.
-dateModified: '2016-05-26T08:35:44.080Z'
-datePublished: '2016-05-26T08:36:33.404Z'
+dateModified: '2016-05-26T08:40:57.515Z'
+datePublished: '2016-05-29T16:03:37.247Z'
 title: Frokost - Hjemmelaget granola
 author: []
-starred: false
 sourcePath: _posts/2016-05-26-frokost-hjemmelaget-granola.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ebe392-6a49-4606-8624-a08dc6970aad.jpg)
+![Enkel oppskrift](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ebe392-6a49-4606-8624-a08dc6970aad.jpg)
 
 Frokost er i mine øyne dagens aller viktigste måltid - energi til å starte dagen. Etter en natt uten mat vil frokosten stabilisere blodsukkeret og gi kroppen beskjed om å sette igang systemene.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1682c2ce-05eb-4d51-8f3a-30df79655fef.jpg)
@@ -35,5 +35,6 @@ Stek de på lav varme 170-180 grader i 60 min.
 Vend på blandingen hvert 10 min.
 
 Tilsett til slutt det du ønsker av tørket frukt. Disse har lett for å brenne seg så ikke stek de sammen med blandingen.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc08990-672b-489c-b13b-06b1dbb54822.jpg)
 
-Kjempe godt og enkelt måltid med yoghurt og friske bær. Blandingen holder seg 1 mnd på benken.
+## Kjempe godt og enkelt måltid med yoghurt og friske bær. Blandingen holder seg 1 mnd på benken.
