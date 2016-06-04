@@ -1,15 +1,20 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-04T07:12:54.762Z'
+dateModified: '2016-06-04T07:09:55.870Z'
 author: []
 title: Follow me on Instagram
-description: ''
-dateModified: '2016-06-04T06:52:00.831Z'
-datePublished: '2016-06-04T07:09:47.841Z'
 sourcePath: _posts/2016-06-04-weekend-pictures.md
+authors: []
+publisher: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: follow-me-on-instagram/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc355adb295c31ab3a08b3e2c3725808c436d2e7.jpg)
