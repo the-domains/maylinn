@@ -1,15 +1,25 @@
 ---
-description: Frokost er i mine øyne dagens aller viktigste måltid - energi til å starte dagen. Etter en natt uten mat vil frokosten stabilisere blodsukkeret og gi kroppen beskjed om å sette igang systemene.
-dateModified: '2016-05-26T08:40:57.515Z'
-datePublished: '2016-05-29T16:03:37.247Z'
-title: Frokost - Hjemmelaget granola
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: >-
+  Frokost er i mine øyne dagens aller viktigste måltid - energi til å starte
+  dagen. Etter en natt uten mat vil frokosten stabilisere blodsukkeret og gi
+  kroppen beskjed om å sette igang systemene.
+datePublished: '2016-06-04T07:10:05.071Z'
+dateModified: '2016-06-04T07:10:04.641Z'
+title: >-
+  Kjempe godt og enkelt måltid med yoghurt og friske bær. Blandingen holder seg
+  1 mnd på benken.
 author: []
 sourcePath: _posts/2016-05-26-frokost-hjemmelaget-granola.md
+authors: []
+publisher: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: kjempe-godt-og-enkelt-maltid-med-yoghurt-og-friske-baer-blan/index.html
+_type: Article
 
 ---
 ![Enkel oppskrift](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ebe392-6a49-4606-8624-a08dc6970aad.jpg)
