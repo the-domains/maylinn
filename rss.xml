@@ -4,8 +4,15 @@
         <description><![CDATA[MAY LINN NIRISRUD]]></description>
         <link>http://maylinn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 07:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 07:13:02 GMT</lastBuildDate>
         <atom:link href="http://maylinn.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Follow me on Instagram]]></title>
+            <description><![CDATA[<article><h1>Follow me on Instagram</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc355adb295c31ab3a08b3e2c3725808c436d2e7.jpg"></article>]]></description>
+            <link>http://maylinn.com/follow-me-on-instagram/index.html</link>
+            <guid isPermaLink="false">11c0ddbd-0055-43fc-9445-c70471c573fe</guid>
+            <pubDate>Sat, 04 Jun 2016 07:12:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kjempe godt og enkelt måltid med yoghurt og friske bær. Blandingen holder seg 1 mnd på benken.]]></title>
             <description><![CDATA[<article><h1>Kjempe godt og enkelt måltid med yoghurt og friske bær. Blandingen holder seg 1 mnd på benken.</h1><p>Frokost er i mine øyne dagens aller viktigste måltid - energi til å starte dagen. Etter en natt uten mat vil frokosten stabilisere blodsukkeret og gi kroppen beskjed om å sette igang systemene.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ebe392-6a49-4606-8624-a08dc6970aad.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://maylinn.com/hei/index.html</link>
             <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
             <pubDate>Tue, 10 May 2016 06:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRX]]></title>
-            <description><![CDATA[<article><h1>TRX</h1><p>Pushups - Rows</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/affee965078244eda6858118b5bbd348d203c52a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=JjFxUlfCgEQ&amp;feature=share</link>
-            <guid isPermaLink="false">53a2cc83-9737-4994-986c-c7c96d3454c7</guid>
-            <pubDate>Tue, 10 May 2016 06:39:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
