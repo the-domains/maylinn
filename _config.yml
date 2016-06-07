@@ -1,7 +1,7 @@
 name: May Linn
 favicon: null
-layout_spectrum: 0.25158
-typography_spectrum: 0.9138254558201879
+layout_spectrum: 0.07692117849364877
+typography_spectrum: 0.8977030997630209
 title: "MAY\_LINN\_NIRISRUD"
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  brandStrength: 0.1673211499582976
-  lightness: 0.8979893894866109
-  saturation: 0.6206816306803375
-  rhythmicContrast: 0.8641130207106471
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.3686047946102917
+  lightness: 0.9482638093177229
+  saturation: 0.18316416698507965
+  rhythmicContrast: 0.47783419373445213
 purpose: []
