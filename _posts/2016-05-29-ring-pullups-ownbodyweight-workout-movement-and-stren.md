@@ -1,15 +1,18 @@
 ---
-title: '#Ring #Pullups #ownbodyweight #workout #movement #and #strength #training #worktowin #nopainnogain #bebetter #striveforprogress #alltheway #everyday #workforit'
-datePublished: '2016-05-29T16:22:20.220Z'
-dateModified: '2016-05-29T16:22:06.161Z'
+title: >-
+  #Ring #Pullups #ownbodyweight #workout #movement #and #strength #training
+  #worktowin #nopainnogain #bebetter #striveforprogress #alltheway #everyday
+  #workforit
+datePublished: '2016-06-12T10:11:32.447Z'
+dateModified: '2016-06-12T10:11:32.154Z'
 author:
   - name: maylinn.n
     url: 'https://www.instagram.com/maylinn.n'
     avatar: {}
 isBasedOnUrl: 'https://instagram.com/p/BBaqKOUxOuE/'
 description: ''
-starred: false
 sourcePath: _posts/2016-05-29-ring-pullups-ownbodyweight-workout-movement-and-stren.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
