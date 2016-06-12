@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-06-12T10:11:31.311Z'
+datePublished: '2016-06-12T10:11:41.095Z'
 sourcePath: _posts/2016-04-12-ny-nettside.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-12T10:11:30.854Z'
+dateModified: '2016-06-12T10:11:40.665Z'
 title: ''
 publisher: null
 description: ''
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: hei/index.html
 _type: Article
 
