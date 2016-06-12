@@ -9,14 +9,14 @@ description: >-
   å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn
   i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men
   ikke tilbakestrømning.
-datePublished: '2016-06-12T09:45:17.962Z'
-dateModified: '2016-06-12T09:45:17.464Z'
+datePublished: '2016-06-12T09:45:54.434Z'
+dateModified: '2016-06-12T09:45:53.477Z'
 title: Okklusjons trening. Hvordan og hvorfor.
 author: []
 sourcePath: _posts/2016-05-03-okklusjon-a-stenge-av-eller-a-lukke.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: okklusjon-a-stenge-av-eller-a-lukke/index.html
 _type: Article
 
