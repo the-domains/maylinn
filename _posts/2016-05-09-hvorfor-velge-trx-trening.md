@@ -5,18 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Du har full kontroll over hvor mye du ønsker å utfordre deg selv på hver øvelse - fordi du kan bare justere kroppens posisjon for å legge til eller redusere motstand.'
-datePublished: '2016-05-15T11:29:22.769Z'
-dateModified: '2016-05-10T20:40:24.261Z'
-title: 'Her får du: kroppsvekts trening, styrke, balanse, fleksibilitet og kjerne stabilitet samtidig.'
+datePublished: '2016-06-12T09:45:37.109Z'
+dateModified: '2016-06-12T09:45:36.586Z'
+title: >-
+  Her får du: kroppsvekts trening, styrke, balanse, fleksibilitet og kjerne
+  stabilitet samtidig.
 author: []
 sourcePath: _posts/2016-05-09-hvorfor-velge-trx-trening.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: null
+starred: true
 url: hvorfor-velge-trx-trening/index.html
 _type: Article
 
