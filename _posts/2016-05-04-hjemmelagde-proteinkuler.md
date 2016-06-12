@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Protein snacks
-datePublished: '2016-05-22T06:45:41.443Z'
-dateModified: '2016-05-22T06:45:09.786Z'
+datePublished: '2016-06-12T09:45:20.974Z'
+dateModified: '2016-06-12T09:45:20.683Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-hjemmelagde-proteinkuler.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: hjemmelagde-proteinkuler/index.html
 _type: Article
 
