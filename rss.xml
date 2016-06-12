@@ -4,8 +4,22 @@
         <description><![CDATA[MAY LINN NIRISRUD]]></description>
         <link>http://maylinn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 09:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 09:47:10 GMT</lastBuildDate>
         <atom:link href="http://maylinn.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hei]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg">]]></description>
+            <link>http://maylinn.com/hei/index.html</link>
+            <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
+            <pubDate>Sun, 12 Jun 2016 09:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atomic Pushups]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac10bfbbeadb5fb2fa890622af5785632387d434.jpg" alt="" title="">]]></description>
+            <link>http://maylinn.com/dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html</link>
+            <guid isPermaLink="false">470f6f83-9be7-47ce-9b4f-5185e50a381f</guid>
+            <pubDate>Sun, 12 Jun 2016 09:46:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Okklusjons trening. Hvordan og hvorfor.]]></title>
             <description><![CDATA[<article><h1>Okklusjons trening. Hvordan og hvorfor.</h1><h2>Okklusjon = å stenge av eller å lukke.</h2><p>I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.</p></article>]]></description>
@@ -49,13 +63,6 @@
             <pubDate>Sun, 29 May 2016 16:22:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Atomic Pushups]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac10bfbbeadb5fb2fa890622af5785632387d434.jpg" alt="" title="">]]></description>
-            <link>http://maylinn.com/dagens-ovelse-sett-sammen-en-knee-tuck-med-en-pushup-da-fa/index.html</link>
-            <guid isPermaLink="false">470f6f83-9be7-47ce-9b4f-5185e50a381f</guid>
-            <pubDate>Sun, 15 May 2016 11:32:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Morro på jobb med @sabrinamaleki 😊 #acroyoga #gymnastics #calisthenics #challenge #your #ownbodyweight #youcandoit #personaltrainer #elixiabjørvika]]></title>
             <description><![CDATA[<article><h1>Morro på jobb med @sabrinamaleki 😊 #acroyoga #gymnastics #calisthenics #challenge #your #ownbodyweight #youcandoit #personaltrainer #elixiabjørvika</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1d654959b361b7d486c2d9a1a8419589f78b880.jpg"></article>]]></description>
             <link>https://instagram.com/p/BBs1hs3xOms/</link>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/zF_F86xOrT/</link>
             <guid isPermaLink="false">701f5e31-15f6-479f-b9ae-a3a9518b6135</guid>
             <pubDate>Tue, 10 May 2016 20:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hei]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg">]]></description>
-            <link>http://maylinn.com/hei/index.html</link>
-            <guid isPermaLink="false">2e2378d0-7301-46ec-85a7-d2fb75aba0d1</guid>
-            <pubDate>Tue, 10 May 2016 06:40:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
