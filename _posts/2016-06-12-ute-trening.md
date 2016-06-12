@@ -1,19 +1,24 @@
 ---
-author: []
-title: Ute trening
-description: Sommeren er på full vei og hva er vell ikke bedre enn å kunne trene ute?
-dateModified: '2016-06-12T11:13:51.682Z'
-datePublished: '2016-06-12T11:14:09.176Z'
-starred: false
+datePublished: '2016-06-12T11:36:14.762Z'
 sourcePath: _posts/2016-06-12-ute-trening.md
-inFeed: true
-hasPage: false
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-12T11:34:42.908Z'
+title: Ute trening
+publisher: null
+description: Sommeren er på full vei og hva er vell ikke bedre enn å kunne trene ute?
+inLanguage: null
 inNav: false
-_type: MediaObject
+starred: false
+url: ute-trening/index.html
+_type: Blurb
 
 ---
 # Ute trening
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31288c9a6f017a7eb39294d8c6a47569f04edaab.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3744de7f3f76615c6c6977297b6a81ac44cb61d2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/113aaf4d-f294-4213-99d2-62cd169fc1f0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9e1b7a3-1f3c-4245-9e33-0bf0dc9c1dc2.jpg)
 
