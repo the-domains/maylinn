@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-06-12T11:36:14.762Z'
-sourcePath: _posts/2016-06-12-ute-trening.md
 inFeed: false
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-12T11:34:42.908Z'
-title: Ute trening
-publisher: null
-description: Sommeren er på full vei og hva er vell ikke bedre enn å kunne trene ute?
-inLanguage: null
 inNav: false
-starred: false
+inLanguage: null
+keywords: []
+description: Sommeren er på full vei og hva er vell ikke bedre enn å kunne trene ute?
+datePublished: '2016-06-13T19:32:51.064Z'
+dateModified: '2016-06-13T19:32:50.504Z'
+author: []
+title: Ute trening
+sourcePath: _posts/2016-06-12-ute-trening.md
+authors: []
+publisher: null
+starred: true
 url: ute-trening/index.html
 _type: Blurb
 
