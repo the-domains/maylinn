@@ -1,24 +1,23 @@
 ---
-datePublished: '2016-06-12T10:11:41.095Z'
-sourcePath: _posts/2016-04-12-ny-nettside.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-12T10:11:40.665Z'
-title: ''
-publisher: null
-description: ''
-inLanguage: null
 inNav: false
+inLanguage: null
+keywords: []
+description: Jeg vil starte med å introdusere siden min og meg selv.
+datePublished: '2016-06-16T11:10:19.625Z'
+dateModified: '2016-06-16T11:10:18.773Z'
+sourcePath: _posts/2016-04-12-ny-nettside.md
+author: []
+title: 'Nå kjører vi! Ny blogg :)'
+authors: []
+publisher: null
 starred: true
 url: hei/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68957967-2f2f-4ec8-b252-34db5c427679.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf68e7b0-b27f-4d80-9baa-07b9203313fb.jpg)
 
 ## Nå kjører vi! Ny blogg :)
 
@@ -35,4 +34,4 @@ Mail:
 Maylinn.Nirisrud@satselixia.no
 
 Instagram : Maylinn.n
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18614bde-f59e-4d8a-83c2-20073742dce9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62e66c9c339885dcb23f849491d14d1bfd233d27.jpg)
