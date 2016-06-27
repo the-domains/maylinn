@@ -4,13 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-27T18:00:19.314Z'
-dateModified: '2016-06-27T18:00:09.840Z'
-title: 'Mail: '
-author:
-  - name: ''
-    url: ''
+description: 'Contact me: Mail og Medier'
+datePublished: '2016-06-27T18:05:24.504Z'
+dateModified: '2016-06-27T18:05:08.565Z'
+title: 'Mail:'
+author: []
 sourcePath: _posts/2016-06-27-contact-me-here.md
 authors: []
 publisher: null
@@ -19,19 +17,18 @@ url: contact-me-here/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bad7b0d8-2aed-4ee2-bf42-2bc427059ce1.jpg)
+Contact me: Mail og Medier
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b4d6342-7287-4ea1-ba6c-5f8d940d2815.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/219015f4-b294-43e1-aa42-f734fd4c4741.gif)
 
-## 
+## Mail:
 
-## Sosiale medier: 
+MayLinn.Nirisrud@satselixia.no
+
+## Sosiale medier:
 
 https://www.facebook.com/MayLinn.Nirisrud
 
 https://www.facebook.com/PT.MayLinn
 
 Instagram: @MayLinn.n
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/219015f4-b294-43e1-aa42-f734fd4c4741.gif)
-
-## Mail: 
-
-MayLinn.Nirisrud@satselixia.no
