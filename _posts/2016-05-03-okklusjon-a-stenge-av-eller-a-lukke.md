@@ -1,34 +1,36 @@
 ---
+datePublished: '2016-07-22T19:41:10.904Z'
+sourcePath: _posts/2016-05-03-okklusjon-a-stenge-av-eller-a-lukke.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-07-22T19:41:09.830Z'
+title: Okklusjons trening. Hvordan og hvorfor.
+publisher: {}
 description: >-
   I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man
   å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn
   i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men
   ikke tilbakestrømning.
-datePublished: '2016-06-12T09:45:58.761Z'
-dateModified: '2016-06-12T09:45:58.243Z'
-title: Okklusjons trening. Hvordan og hvorfor.
-author: []
-sourcePath: _posts/2016-05-03-okklusjon-a-stenge-av-eller-a-lukke.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: true
 url: okklusjon-a-stenge-av-eller-a-lukke/index.html
 _type: Article
 
 ---
 # Okklusjons trening. Hvordan og hvorfor.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfd6fe0e-a086-431b-9538-758f8697c8aa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50863d22-b13b-47c4-9d7c-db3ad78e4fe0.jpg)
 
 ## Okklusjon = å stenge av eller å lukke.
 
 I dette tilfelle vil det si avstegning eller lukking av vener. Her ønsker man å redusere blodgjennomstrømningen fra muskelen, slik at blodet som pumpes inn i muskelen forblir der litt lengre enn normalt. Du skal ha blodtilførsel men ikke tilbakestrømning.
 
 For å få til dette kan du bruke et kne eller håndledds bånd, stramme til rundt den kroppsdelen som skal okkluderes for å stoppe tilbakeførsel av blod til hjerte. Skal du okkludere lår så binder du reimen helt oppe ved hoften/lysken, eller for biceps oppe ved skulderen.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d01928453e18f9413a21d13e7ec0647bf8926896.jpg)
 
 Vi har flere kjente spesialmetoder for muskelvekst, som blant annet supersett/droppsett/pyramide/sirkeltrening osv. Alle disse er vi godt kjent med å bruke.
 
@@ -41,7 +43,7 @@ Okklusjons trening gir den samme effekten som maksimal styrketrening men med let
 Oksygenmangelsen som oppstår ved okkulasjon øker muskelfiber aktiveringen tidligere, og dermed forsterker det effekten av det mekaniske draget langt tidligere enn ved normal styrketrening. Musklene påføres en ekstra stressfaktor.
 
 Nytt blod blir tilført musklene, men pumpes ikke tilbake til hjerte. Dette vil gi en veske oppsamling i musklene samt mer blod utover settene- så du kan se for deg den beste PUMPEN noen sinne. Bindene skal sitte på i pausene så blodet forsvinner ikke som ved vanlig trening.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e34555-d8b8-4b99-9d8c-c8a129010b06.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ad02eeafeb70ec1ff56aea76d77381fc11bc097.jpg)
 
 # Denne treningsformen er godt dokumentert:
 
@@ -58,7 +60,7 @@ Okklusjons trening er en metode som hemmer nedbrytningen (myostatin) av muskulat
 # I praksis funker det slik:
 
 Du kan bruke hva som helst å til å binde med, men et knebind fungerer veldig bra. Det er langt og bredt nok til at du får et par runder rundt beinet og får strammet godt til. Eller disse:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5528124f-56a7-47be-89e8-113222d75003.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bb1f29eac3b66339346ae151065228bf51dd0a2.jpg)
 
 Trykket er viktig! Venene skal avklemmes, men blodet skal kunne komme inn i muskelen så du kan ikke stramme til for hardt, da vil du miste effekten.
 
@@ -66,7 +68,7 @@ Se for deg en skala fra 1 -- 10\.
 
 1= lett og 10= sykt vondt -- da strammer du til du når 7 på skalaen. Litt over sånn passe vondt!
 
-Når det gjelder reps og sett så finnes det utallige måter å gjøre dette på. 
+Når det gjelder reps og sett så finnes det utallige måter å gjøre dette på.
 
 # Her er et eksempel:
 
