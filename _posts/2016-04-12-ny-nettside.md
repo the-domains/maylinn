@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-07-18T07:19:55.553Z'
+datePublished: '2016-08-19T07:20:53.589Z'
 sourcePath: _posts/2016-04-12-ny-nettside.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-18T07:19:54.946Z'
+dateModified: '2016-08-19T07:20:52.862Z'
 title: Ny webside.
-publisher: null
+publisher: {}
 description: 'Velkommen:)'
 inLanguage: null
 inNav: false
+via: {}
 starred: true
 url: hei/index.html
 _type: Article
