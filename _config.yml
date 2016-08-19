@@ -1,8 +1,34 @@
-name: May Linn
-favicon: null
-layout_spectrum: 0.07692117849364877
 typography_spectrum: 0.8977030997630209
-title: "MAY\_LINN\_NIRISRUD"
+color:
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.3686047946102917
+  lightness: 0.9482638093177229
+  saturation: 0.18316416698507965
+  rhythmicContrast: 0.47783419373445213
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.07692117849364877
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: May Linn
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Kontakt
+    id: 27f9d914-b73a-4be9-aa6e-7a35b370b958
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  brandStrength: 0.3686047946102917
-  lightness: 0.9482638093177229
-  saturation: 0.18316416698507965
-  rhythmicContrast: 0.47783419373445213
+title: "MAY\_LINN\_NIRISRUD"
 purpose: []
