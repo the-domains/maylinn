@@ -1,4 +1,5 @@
-typography_spectrum: 0.8977030997630209
+layout_spectrum: 0.3536625655833632
+typography_spectrum: 0.592831956455484
 color:
   brandColors:
     - '#1A1F2B'
@@ -15,7 +16,6 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbdd1633-6536-4625-a377-98245028b3f9.jpg
   type: null
   appId: 'https://www.facebook.com/PT.MayLinn/'
-layout_spectrum: 0.07692117849364877
 analytics:
   google: null
   facebook: null
