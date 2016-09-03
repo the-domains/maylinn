@@ -11,15 +11,22 @@ color:
   saturation: 0.18316416698507965
   rhythmicContrast: 0.47783419373445213
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbdd1633-6536-4625-a377-98245028b3f9.jpg
   type: null
-  appId: null
+  appId: 'https://www.facebook.com/PT.MayLinn/'
 layout_spectrum: 0.07692117849364877
 analytics:
   google: null
   facebook: null
   twitter: null
-name: May Linn
+author:
+  name: May Linn
+  email: Maylinn.nirisrud@satselixia.ni
+  url: www.maylinn.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d25bda-0a9f-4205-878f-018c053be237.jpg
+name: WWW.MAYLINN.COM
 cta:
   domain: null
   bucket: null
