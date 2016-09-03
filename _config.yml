@@ -28,7 +28,7 @@ navigation:
   - name: Kontakt
     id: 27f9d914-b73a-4be9-aa6e-7a35b370b958
     type: content
-  - name: Ny webside.
+  - name: Om meg
     id: 2e2378d0-7301-46ec-85a7-d2fb75aba0d1
     type: content
 favicon: null
