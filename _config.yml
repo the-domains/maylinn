@@ -38,7 +38,8 @@ navigation:
   - name: Om meg
     id: 2e2378d0-7301-46ec-85a7-d2fb75aba0d1
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7221e023-313a-4cd2-8e9f-837884e14552.jpg
 collections:
   - index:
       path: /
