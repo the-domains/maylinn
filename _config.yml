@@ -24,8 +24,7 @@ author:
   name: May Linn
   email: Maylinn.nirisrud@satselixia.ni
   url: www.maylinn.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d25bda-0a9f-4205-878f-018c053be237.jpg
+logo: null
 name: WWW.MAYLINN.COM
 cta:
   domain: null
@@ -38,8 +37,7 @@ navigation:
   - name: Om meg
     id: 2e2378d0-7301-46ec-85a7-d2fb75aba0d1
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7221e023-313a-4cd2-8e9f-837884e14552.jpg
+favicon: null
 collections:
   - index:
       path: /
