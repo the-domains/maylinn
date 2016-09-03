@@ -25,7 +25,7 @@ author:
   email: Maylinn.nirisrud@satselixia.ni
   url: www.maylinn.com
 logo: null
-name: WWW.MAYLINN.COM
+name: MayLinn.com
 cta:
   domain: null
   bucket: null
@@ -51,4 +51,5 @@ collections:
       format: rss
       number: 10
 title: "MAY\_LINN\_NIRISRUD"
+description: Trening - Mat - Hverdag
 purpose: []
