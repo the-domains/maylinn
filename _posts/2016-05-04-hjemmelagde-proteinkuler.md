@@ -1,31 +1,31 @@
 ---
-datePublished: '2016-09-02T17:43:24.927Z'
+datePublished: '2016-09-02T18:13:41.541Z'
 sourcePath: _posts/2016-05-04-hjemmelagde-proteinkuler.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-09-02T17:43:24.104Z'
-title: ''
+via: {}
+dateModified: '2016-09-02T18:13:40.647Z'
+title: 'Hjemmelagde proteinkuler:'
 publisher: {}
 description: Protein snacks
 inLanguage: null
 inNav: false
-via: {}
 starred: true
 url: hjemmelagde-proteinkuler/index.html
 _type: Article
 
 ---
-Protein snacks
-
-60 g proteinpulver ( jeg brukte hydrowhey vanilje)
+**Protein snacks**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e81c9716a922703e40343a75d6a219baab70db7.jpg)
 
 ## Hjemmelagde proteinkuler:
 
 30 g kokos mel
+
+60 g proteinpulver ( jeg brukte hydrowhey vanilje) 
 
 4 dråper stevia (funker fint uten også)
 
