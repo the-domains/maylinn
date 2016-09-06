@@ -1,21 +1,21 @@
-typography_spectrum: 0.7803387281019241
+layout_spectrum: 0.5308709593955427
+typography_spectrum: 0.699091303627938
 color:
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  brandStrength: 0.3686047946102917
-  lightness: 0.9482638093177229
-  saturation: 0.18316416698507965
-  rhythmicContrast: 0.47783419373445213
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.9236636103596538
+  lightness: 0.6219462393783033
+  saturation: 0.7058062176220119
+  rhythmicContrast: 0.6601497535593808
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbdd1633-6536-4625-a377-98245028b3f9.jpg
   type: null
   appId: 'https://www.facebook.com/PT.MayLinn/'
-layout_spectrum: 0.3536625655833632
 analytics:
   google: null
   facebook: null
