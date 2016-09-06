@@ -1,29 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Protein snacks
-datePublished: '2016-06-12T09:45:20.974Z'
-dateModified: '2016-06-12T09:45:20.683Z'
-title: ''
-author: []
+datePublished: '2016-09-02T17:43:24.927Z'
 sourcePath: _posts/2016-05-04-hjemmelagde-proteinkuler.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-02T17:43:24.104Z'
+title: ''
+publisher: {}
+description: Protein snacks
+inLanguage: null
+inNav: false
+via: {}
 starred: true
 url: hjemmelagde-proteinkuler/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0294ca0a-bf18-4056-970c-9eccbea777e2.jpg)
-
 Protein snacks
 
-## Hjemmelagde proteinkuler:
-
 60 g proteinpulver ( jeg brukte hydrowhey vanilje)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e81c9716a922703e40343a75d6a219baab70db7.jpg)
+
+## Hjemmelagde proteinkuler:
 
 30 g kokos mel
 
@@ -32,9 +32,8 @@ Protein snacks
 Noen dråper vann eller melk for å få en passe konsistens.
 
 50 g smeltet sjokolade
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd25f39a-1c2e-4af2-b218-7cb7fd27749f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/001c7dcb-db7f-4322-a00c-ca9362c48f3c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/562a8b2d-6566-41d1-95d9-0514554797ba.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cb0adc4643abbe1424310efbadba2ce92473256.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4b582d5b16cb33d8f6ffdbf191a26dab9ad6507.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e62fa699-1c95-4266-88b8-0f9eabcd504a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f12675e-769e-41f1-9310-ffb41d3eb28d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7e0acc-bcbd-4dd6-9e8a-11b9dcc2169d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3928b4c7863f076635b8ad5092dffdb31cdb4fda.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7749cbd811a8ddbd8d6f91ec3c2bd56fe0710d7d.jpg)
