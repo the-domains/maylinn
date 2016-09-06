@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T18:13:41.541Z'
+datePublished: '2016-09-02T18:14:07.295Z'
 sourcePath: _posts/2016-05-04-hjemmelagde-proteinkuler.md
 inFeed: true
 authors: []
@@ -7,13 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-02T18:13:40.647Z'
+dateModified: '2016-09-02T18:14:06.731Z'
 title: 'Hjemmelagde proteinkuler:'
 publisher: {}
 description: Protein snacks
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: hjemmelagde-proteinkuler/index.html
 _type: Article
 
